@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-191815?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-191815?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-191815?style=for-the-badge&logo=react)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-191815?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-191815?style=for-the-badge&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-191815?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-191815?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
