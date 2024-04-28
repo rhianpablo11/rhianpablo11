@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 -->
 
 
+
 <h1 align="left">Hi, I'm Rhian Pablo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 ## 📲 Contact
 
 <div>
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BW%2FNcirfUQU%2B3i%2FbcLWY06A%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-191815?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp
+<a href="https://www.linkedin.com/in/rhianpablo11/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-191815?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp
 <a href="https://instagram.com/rhianpablo11" target="_blank"><img alt="Instgram" src="https://img.shields.io/badge/Instagram-191815?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp
-<a href="https://x.com/rhianpablo11" target="_blank"><img alt="Instgram" src="https://img.shields.io/badge/Instagram-191815?style=for-the-badge&logo=X&logoColor=white"></a> &nbsp
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-191815?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://x.com/rhianpablo11" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-191815?style=for-the-badge&logo=X&logoColor=white"></a> &nbsp
+<a href = "mailto:rhianpablo11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-191815?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
