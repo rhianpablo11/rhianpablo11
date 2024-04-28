@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ![java](https://img.shields.io/badge/-Java-191815?style=for-the-badge&logo=openjdk)&nbsp;
 ![C#](https://img.shields.io/badge/-C-191815?style=for-the-badge&logo=c)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-191815?style=for-the-badge&logo=github)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-191815?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
