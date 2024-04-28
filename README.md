@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="left">Hi, I'm Rhian Pablo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 
 ## 📲 Contact
 
@@ -39,9 +40,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/-C-191815?style=for-the-badge&logo=c)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-191815?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-191815?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 
