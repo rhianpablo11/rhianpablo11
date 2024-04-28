@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left">
+<p align="center">
 <img width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhianpablo11&layout=donut&title_color=FFFFFF&text_color=FFFFFF&bg_color=191815&hide_border=true&border_radius=20" alt="rhianpablo's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rhianpablo11&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=191815&hide_border=true&border_radius=20&icon_color=4c71f2&hide_rank=true" alt="rhianpablo's most languages"/>
 </p>
