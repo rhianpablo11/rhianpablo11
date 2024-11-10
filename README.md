@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 </div>
 
 ## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-191815?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-191815?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-191815?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-191815?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Nextjs-191815?style=for-the-badge&logo=nextdotjs)&nbsp;
+![Tailwind](https://img.shields.io/badge/-tailwindcss-191815?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-191815?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-191815?style=for-the-badge&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-python-191815?style=for-the-badge&logo=python)&nbsp;
